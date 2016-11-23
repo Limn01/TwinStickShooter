@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 8cd4492a451c2cf488d0815f2b4bd1a4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antennae_L(mirrored)
+    100004: Antennae_R
+    100006: Bone008
+    100008: Bone008(mirrored)
+    100010: Bone009
+    100012: Bone009(mirrored)
+    100014: Bone010
+    100016: Bone010(mirrored)
+    100018: Bone011
+    100020: Bone011(mirrored)
+    100022: Bone012
+    100024: Bone012(mirrored)
+    100026: Bone014
+    100028: Bone014(mirrored)
+    100030: Bone016
+    100032: Bone016(mirrored)
+    100034: Bone017
+    100036: Bone017(mirrored)
+    100038: Bone018
+    100040: Bone018(mirrored)
+    100042: Bone019
+    100044: Bone019(mirrored)
+    100046: Bone020
+    100048: Bone020(mirrored)
+    100050: Bone021
+    100052: Bone021(mirrored)
+    100054: Bone023
+    100056: Bone023(mirrored)
+    100058: Bone024
+    100060: Bone024(mirrored)
+    100062: Bone025
+    100064: Bone025(mirrored)
+    100066: Bone026
+    100068: Bone026(mirrored)
+    100070: Bone027
+    100072: Bone027(mirrored)
+    100074: Bone028
+    100076: Bone028(mirrored)
+    100078: Bone034
+    100080: Bone034(mirrored)
+    100082: Bone035
+    100084: Bone035(mirrored)
+    100086: Bone036
+    100088: Bone036(mirrored)
+    100090: Bone037
+    100092: Bone037(mirrored)
+    100094: Bone038
+    100096: Bone038(mirrored)
+    100098: Bone039
+    100100: Bone039(mirrored)
+    100102: Bone040
+    100104: Bone040(mirrored)
+    100106: Bone041
+    100108: Bone041(mirrored)
+    100110: Bone044
+    100112: Bone044(mirrored)
+    100114: Eye_L(mirrored)
+    100116: Eye_R
+    100118: //RootNode
+    100120: Greenfly
+    100122: Head
+    100124: LegB_L(mirrored)
+    100126: LegB_R
+    100128: LegF_L(mirrored)
+    100130: LegF_R
+    100132: LegM_L(mirrored)
+    100134: LegM_R
+    100136: Point001
+    100138: Torax
+    100140: Wing_L(mirrored)
+    100142: Wing_R
+    400000: Abdomen
+    400002: Antennae_L(mirrored)
+    400004: Antennae_R
+    400006: Bone008
+    400008: Bone008(mirrored)
+    400010: Bone009
+    400012: Bone009(mirrored)
+    400014: Bone010
+    400016: Bone010(mirrored)
+    400018: Bone011
+    400020: Bone011(mirrored)
+    400022: Bone012
+    400024: Bone012(mirrored)
+    400026: Bone014
+    400028: Bone014(mirrored)
+    400030: Bone016
+    400032: Bone016(mirrored)
+    400034: Bone017
+    400036: Bone017(mirrored)
+    400038: Bone018
+    400040: Bone018(mirrored)
+    400042: Bone019
+    400044: Bone019(mirrored)
+    400046: Bone020
+    400048: Bone020(mirrored)
+    400050: Bone021
+    400052: Bone021(mirrored)
+    400054: Bone023
+    400056: Bone023(mirrored)
+    400058: Bone024
+    400060: Bone024(mirrored)
+    400062: Bone025
+    400064: Bone025(mirrored)
+    400066: Bone026
+    400068: Bone026(mirrored)
+    400070: Bone027
+    400072: Bone027(mirrored)
+    400074: Bone028
+    400076: Bone028(mirrored)
+    400078: Bone034
+    400080: Bone034(mirrored)
+    400082: Bone035
+    400084: Bone035(mirrored)
+    400086: Bone036
+    400088: Bone036(mirrored)
+    400090: Bone037
+    400092: Bone037(mirrored)
+    400094: Bone038
+    400096: Bone038(mirrored)
+    400098: Bone039
+    400100: Bone039(mirrored)
+    400102: Bone040
+    400104: Bone040(mirrored)
+    400106: Bone041
+    400108: Bone041(mirrored)
+    400110: Bone044
+    400112: Bone044(mirrored)
+    400114: Eye_L(mirrored)
+    400116: Eye_R
+    400118: //RootNode
+    400120: Greenfly
+    400122: Head
+    400124: LegB_L(mirrored)
+    400126: LegB_R
+    400128: LegF_L(mirrored)
+    400130: LegF_R
+    400132: LegM_L(mirrored)
+    400134: LegM_R
+    400136: Point001
+    400138: Torax
+    400140: Wing_L(mirrored)
+    400142: Wing_R
+    4300000: Greenfly
+    7400000: greenfly_idle
+    7400002: greenfly_gotoflyfast
+    7400004: greenfly_flyingfast
+    7400006: greenfly_gotoflyslow
+    7400008: greenfly_landing
+    7400010: greenfly_takeoff
+    7400012: greenfly_hited
+    7400014: greenfly_death
+    7400016: greenfly_idle2
+    7400018: greenfly_attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Greenfly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: greenfly_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_gotoflyfast
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_flyingfast
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_gotoflyslow
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_landing
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_takeoff
+      takeName: Take 001
+      firstFrame: 144
+      lastFrame: 178
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_hited
+      takeName: Take 001
+      firstFrame: 198
+      lastFrame: 228
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_death
+      takeName: Take 001
+      firstFrame: 228
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_idle2
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: greenfly_attack
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

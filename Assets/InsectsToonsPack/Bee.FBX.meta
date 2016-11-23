@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: ebdc1a9109cec724aa892f43fe7e8b92
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antennae_L(mirrored)
+    100004: Antennae_R
+    100006: //RootNode
+    100008: Bee
+    100010: Bone008
+    100012: Bone008(mirrored)
+    100014: Bone009
+    100016: Bone009(mirrored)
+    100018: Bone010
+    100020: Bone010(mirrored)
+    100022: Bone011
+    100024: Bone011(mirrored)
+    100026: Bone012
+    100028: Bone012(mirrored)
+    100030: Bone014
+    100032: Bone014(mirrored)
+    100034: Bone016
+    100036: Bone016(mirrored)
+    100038: Bone017
+    100040: Bone017(mirrored)
+    100042: Bone018
+    100044: Bone018(mirrored)
+    100046: Bone019
+    100048: Bone019(mirrored)
+    100050: Bone020
+    100052: Bone020(mirrored)
+    100054: Bone021
+    100056: Bone021(mirrored)
+    100058: Bone023
+    100060: Bone023(mirrored)
+    100062: Bone024
+    100064: Bone024(mirrored)
+    100066: Bone025
+    100068: Bone025(mirrored)
+    100070: Bone026
+    100072: Bone026(mirrored)
+    100074: Bone027
+    100076: Bone027(mirrored)
+    100078: Bone028
+    100080: Bone028(mirrored)
+    100082: Bone030
+    100084: Bone030(mirrored)
+    100086: Bone031
+    100088: Bone031(mirrored)
+    100090: Bone034
+    100092: Bone034(mirrored)
+    100094: Bone035
+    100096: Bone035(mirrored)
+    100098: Bone036
+    100100: Bone036(mirrored)
+    100102: Bone037
+    100104: Bone037(mirrored)
+    100106: Bone038
+    100108: Bone038(mirrored)
+    100110: Bone039
+    100112: Bone039(mirrored)
+    100114: Bone040
+    100116: Bone040(mirrored)
+    100118: Bone041
+    100120: Bone041(mirrored)
+    100122: Bone043
+    100124: Bone043(mirrored)
+    100126: Bone044
+    100128: Bone044(mirrored)
+    100130: Eye_L(mirrored)
+    100132: Eye_R
+    100134: Head
+    100136: LegB_L(mirrored)
+    100138: LegB_R
+    100140: LegF_L(mirrored)
+    100142: LegF_R
+    100144: LegM_L(mirrored)
+    100146: LegM_R
+    100148: mouth_L(mirrored)
+    100150: mouth_R
+    100152: Point001
+    100154: Sting
+    100156: Torax
+    100158: Wing_L(mirrored)
+    100160: Wing_R
+    400000: Abdomen
+    400002: Antennae_L(mirrored)
+    400004: Antennae_R
+    400006: //RootNode
+    400008: Bee
+    400010: Bone008
+    400012: Bone008(mirrored)
+    400014: Bone009
+    400016: Bone009(mirrored)
+    400018: Bone010
+    400020: Bone010(mirrored)
+    400022: Bone011
+    400024: Bone011(mirrored)
+    400026: Bone012
+    400028: Bone012(mirrored)
+    400030: Bone014
+    400032: Bone014(mirrored)
+    400034: Bone016
+    400036: Bone016(mirrored)
+    400038: Bone017
+    400040: Bone017(mirrored)
+    400042: Bone018
+    400044: Bone018(mirrored)
+    400046: Bone019
+    400048: Bone019(mirrored)
+    400050: Bone020
+    400052: Bone020(mirrored)
+    400054: Bone021
+    400056: Bone021(mirrored)
+    400058: Bone023
+    400060: Bone023(mirrored)
+    400062: Bone024
+    400064: Bone024(mirrored)
+    400066: Bone025
+    400068: Bone025(mirrored)
+    400070: Bone026
+    400072: Bone026(mirrored)
+    400074: Bone027
+    400076: Bone027(mirrored)
+    400078: Bone028
+    400080: Bone028(mirrored)
+    400082: Bone030
+    400084: Bone030(mirrored)
+    400086: Bone031
+    400088: Bone031(mirrored)
+    400090: Bone034
+    400092: Bone034(mirrored)
+    400094: Bone035
+    400096: Bone035(mirrored)
+    400098: Bone036
+    400100: Bone036(mirrored)
+    400102: Bone037
+    400104: Bone037(mirrored)
+    400106: Bone038
+    400108: Bone038(mirrored)
+    400110: Bone039
+    400112: Bone039(mirrored)
+    400114: Bone040
+    400116: Bone040(mirrored)
+    400118: Bone041
+    400120: Bone041(mirrored)
+    400122: Bone043
+    400124: Bone043(mirrored)
+    400126: Bone044
+    400128: Bone044(mirrored)
+    400130: Eye_L(mirrored)
+    400132: Eye_R
+    400134: Head
+    400136: LegB_L(mirrored)
+    400138: LegB_R
+    400140: LegF_L(mirrored)
+    400142: LegF_R
+    400144: LegM_L(mirrored)
+    400146: LegM_R
+    400148: mouth_L(mirrored)
+    400150: mouth_R
+    400152: Point001
+    400154: Sting
+    400156: Torax
+    400158: Wing_L(mirrored)
+    400160: Wing_R
+    4300000: Bee
+    7400000: bee_idle
+    7400002: bee_gotoflyfast
+    7400004: bee_flyingfast
+    7400006: bee_gotoflyslow
+    7400008: bee_landing
+    7400010: bee_takeoff
+    7400012: bee_hited
+    7400014: bee_death
+    7400016: bee_idle2
+    7400018: bee_attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''Bee'' conversion failed: Required human bone ''Head'' not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: bee_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_gotoflyfast
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_flyingfast
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_gotoflyslow
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_landing
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_takeoff
+      takeName: Take 001
+      firstFrame: 144
+      lastFrame: 178
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_hited
+      takeName: Take 001
+      firstFrame: 198
+      lastFrame: 228
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_death
+      takeName: Take 001
+      firstFrame: 228
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_idle2
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bee_attack
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
